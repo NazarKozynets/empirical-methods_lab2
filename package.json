@@ -1,0 +1,14 @@
+{
+  "name": "empirical-methods-lab2-variant14",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5"
+  }
+}
